@@ -11,7 +11,7 @@ Estoy montando este proyecto poco a poco a lo largo del curso, aprovechando trab
 ## Qué hay en este repositorio
 
 * **Proyecto principal:** La base de la plataforma, la documentación y los archivos que iré añadiendo según avance el curso y vaya haciendo entregas de clase.
-* **`secundaria/actividad-4-selector-fichas/`:** Aquí dejo la **Actividad 4 (Selector Dinámico de Fichas Técnicas)** hecha con Vite, como actividad complementaria dentro del mismo repositorio.
+* **`secundaria/actividad4-extraescolar/`:** Aquí dejo la **Actividad 4 (Selector Dinámico de Fichas Técnicas)** hecha con Vite, como actividad complementaria dentro del mismo repositorio.
 
 ---
 
@@ -25,7 +25,7 @@ plataforma-estudio-fp/              # Raíz del repositorio (proyecto principal)
 │   └── base-datos-seed.md
 ├── src/
 └── secundaria/
-    └── actividad4/                 # Actividad 4
+    └── actividad4-extraescolar/    # Actividad 4
         ├── .gitignore
         ├── README.md
         ├── index.html

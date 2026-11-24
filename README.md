@@ -17,15 +17,15 @@ Estoy montando este proyecto poco a poco a lo largo del curso, aprovechando trab
 
 ## Estructura del repositorio
 
-plataforma-estudio-fp/                  # Raíz del repositorio (proyecto principal)
+plataforma-estudio-fp/              # Raíz del repositorio (proyecto principal)
 ├── .gitignore
-├── README.md  
-├── docs/                               # Documentación del proyecto principal
+├── README.md
+├── docs/                           # Documentación del proyecto principal
 │   ├── propuesta-proyecto.md
 │   └── base-datos-seed.md
-├── src
+├── src/
 └── secundaria/
-    └── actividad4/                    # Activdad 4 EXTRAESCOLAR
+    └── actividad4/                 # Actividad 4
         ├── .gitignore
         ├── README.md
         ├── index.html
